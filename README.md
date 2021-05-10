@@ -1,3 +1,7 @@
-## Switch to a robot.
+# Creating a search.
 
-This is a little project to torre company where i'm try to modify some data in an Api.
+## Description
+<p>This is a light project to torre company where I'm developed a search for people and opportunities filtering by identified parameters offset and size. </p>
+
+<h3>Content</h3>
+
